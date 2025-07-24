@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 ![Profile Views](https://komarev.com/ghpvc/?username=shreykakale&color=blue)
 
 ## 👩‍💻 About Me
 
