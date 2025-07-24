@@ -3,15 +3,15 @@ I'm Shreyka Kale — a passionate Power BI Developer with over 3 years of experi
 
 💼 I specialize in:
 
-Power BI (DAX, Data Modeling, Power Query, RLS)
+* Power BI (DAX, Data Modeling, Power Query, RLS)
 
-SQL & Advanced Excel
+* SQL & Advanced Excel
 
-Microsoft Fabric (Lakehouse, Notebooks)
+* Microsoft Fabric (Lakehouse, Notebooks)
 
-Power Automate & Power Apps
+* Power Automate & Power Apps
 
-End-to-end report development across Finance, Healthcare, and Telematics domains
+* End-to-end report development across Finance, Healthcare, and Telematics domains
 
 🚀 I've delivered BI solutions for 3+ clients, including MEDSPA and GEOTAB, and recently worked on migrating data pipelines from SQL to Microsoft Fabric.
 
