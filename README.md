@@ -1,21 +1,27 @@
 ## Hi there 👋
-I'm Shreyka Kale — a passionate Power BI Developer with over 3 years of experience in building data-driven dashboards and automating business processes.
+
+## 👩‍💻 About Me
+
+I'm Shreyka Kale, a results-oriented Power BI Developer with 3.3 years of experience in transforming raw data into meaningful insights. I’ve delivered end-to-end BI solutions across diverse industries including finance, healthcare (MEDSPA), and telematics (GEOTAB).
 
 💼 I specialize in:
 
-* Power BI (DAX, Data Modeling, Power Query, RLS)
+* Power BI (Data Modeling, DAX, Power Query, RLS)
 
-* SQL & Advanced Excel
+* SQL for data extraction and transformation
 
-* Microsoft Fabric (Lakehouse, Notebooks)
+* Microsoft Fabric (Lakehouses, Notebooks, OneLake Integration)
 
-* Power Automate & Power Apps
+* Power Automate & Power Apps for report automation
 
-* End-to-end report development across Finance, Healthcare, and Telematics domains
+* Interactive, scalable dashboards using slicers, bookmarks, and drillthroughs
 
-🚀 I've delivered BI solutions for 3+ clients, including MEDSPA and GEOTAB, and recently worked on migrating data pipelines from SQL to Microsoft Fabric.
+🚀 My recent focus includes migrating reporting pipelines from SQL to Microsoft Fabric to build high-performance, cloud-native reporting solutions.
 
-📊 This GitHub is a collection of my portfolio projects — including sales dashboards, retention analysis, financial reporting, and more.
+📊 This GitHub portfolio showcases my personal and client-style projects — including financial dashboards, retention reports, and operational analytics.
+
+Let’s connect and collaborate on all things data and visualization!
+
 <!--
 **shreyka1998/shreyka1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
