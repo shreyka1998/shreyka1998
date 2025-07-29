@@ -24,7 +24,8 @@ Let’s connect and collaborate on all things data and visualization!
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shreyka-kale-547812214/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kale.shreyka112@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/shreyka-kale-547812214/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kale.shreyka112@gmail.com)
 
 # 💻 Tech Stack:
 
@@ -32,7 +33,7 @@ Let’s connect and collaborate on all things data and visualization!
 
 # 📊 Power BI Project
 
-[👤 **Customer Segmentation Report**](https://github.com/shreyka1998/Power-BI-Reports/blob/main/Customer%20Segmentation%20Report.pbix)
+[👤 **Customer Segmentation Report**](https://github.com/shreyka1998/Power-BI-Reports/blob/main/Customer%20Segmentation%20Report/Customer%20Segmentation%20Report.pbix)
 
 <p align="center">
   <img src="https://github.com/shreyka1998/Power-BI-Reports/blob/main/Customer%20Segmentation%20Report/Customer%20Segmentation%20Report.jpg?raw=true" alt="Customer Segmentation Report" width="400"/>
