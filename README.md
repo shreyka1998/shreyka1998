@@ -45,12 +45,27 @@ High-value customers show better recency and frequency.<br/>
 The dashboard also highlights stable inventory and revenue trends across segments and cities.
 </p>
 
-[👤 **Finance Report**](https://github.com/shreyka1998/Power-BI-Reports/blob/main/Finance%20Report/New%20Financial%20Report%20(Done).pbix)
+[💰 **Finance Report**](https://github.com/shreyka1998/Power-BI-Reports/blob/main/Finance%20Report/New%20Financial%20Report%20(Done).pbix)
 
 <p align="center">
-  <img src="https://github.com/shreyka1998/Power-BI-Reports/blob/main/Finance%20Report/Finance%20Report.png?raw=true" alt="Customer Segmentation Report" width="600"/>
+  <img src="https://github.com/shreyka1998/Power-BI-Reports/blob/main/Finance%20Report/Finance%20Report.png?raw=true" alt="Customer Segmentation Report" width="800"/>
 </p>
 
+<p align="left">
+This Finance Dashboard presents a comprehensive view of $118.73M in total sales, $16.89M in profit, and $127.93M in gross sales. Paseo leads as the top-selling product with $33M in sales. France, Germany, and Canada contribute the highest profits by country. Monthly trends show a significant profit peak in December 2014, indicating strong year-end performance.
+</p>
+
+[🏢 **Nagpur Mihan Analysis**](https://github.com/shreyka1998/Power-BI-Reports/blob/main/Nagpur%20Mihan%20Analysis/Mihan%20Data%20Report.pbix)
+
+<p align="center">
+  <img src="https://github.com/shreyka1998/Power-BI-Reports/blob/main/Nagpur%20Mihan%20Analysis/Mihan%20Data%20Report.png?raw=true" alt="Customer Segmentation Report" width="800"/>
+</p>
+
+<p align="left">
+This Mihan, Nagpur Company Report highlights 73 companies, including 34 IT firms, with a workforce of over 5,000 employees in Nagpur. TCS leads with 1,700 employees, followed by Hexaware and HCL Technologies. It features top 10 largest and smallest companies by size, with detailed views of employee presence on LinkedIn and in Nagpur.<br/>
+
+👉 This report is available in both light and dark themes for better visual presentation.
+</p>
 
 
 
